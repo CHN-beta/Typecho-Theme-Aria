@@ -84,7 +84,12 @@
 <header id="header" class="clearfix animated fadeInDown">
     <div id="site-meta">
             <h1 id="site-name"><?php $this->options->title(); ?></h1>
-            <h2 id="site-description"><?php $this->options->description(); ?></h2>
+            <h2 id="site-description">
+                陈浩南，<s>铜锣湾真正的扛把子</s><br>
+                工科物理，半导体方向，Linux/C++ 玩家<br>
+                持续性踌躇满志，间歇性混吃等死<br>
+                讨厌抽烟/酗酒/长时间外放抖音的人
+            </h2>
     </div>
     <div id="background"></div>
 </header><!-- end #header -->
